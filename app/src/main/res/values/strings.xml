@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aula Random</string>
+    <string name="where_is_classroom">¿Dónde está el aula?</string>
+    <string name="new_classroom">Nueva aula</string>
+</resources>
